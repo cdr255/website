@@ -16,17 +16,6 @@ musical creativity where ever it might grow. If You see something on
 here You have a claim to, and want it taken down, please [Contact
 Me][] and it will immediately be removed.
 
-* * *
-
-### Leadsheets / Tab
-
-**COMING SOON!**
-
-As time goes on, I will have more and more lead sheets, sheet music, and
-tablature freely available to download here. I want them all to match,
-stylistically, and be equally usable no matter how good Your eyesight is
-(mine is HORRIBLE!). As I convert them all to a newer, standard format,
-I will upload them here.
 
 
 

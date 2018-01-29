@@ -10,15 +10,15 @@ My name is Christopher Rodriguez.
 
 ### Music
 
-I am a musician from the South Jersey Area, currently living in
-Hi-Nella. I play the [lever harp][1], the [electric bass][2], the [5
-string banjo][3], and the [anglo concertina][4] alongside a lot of other
-instruments.
+I am a musician from the South Jersey Area, currently living in the
+Cherry Hill Area (with plans to move to PA soon). I play the [lever
+harp][1], the [electric bass][2], the [5 string banjo][3], and the
+[anglo concertina][4] alongside a lot of other instruments.
 
-I\'ve been playing music for 10 years now, ever since I picked up my
+I\'ve been playing music for 12 years now, ever since I picked up my
 mom\'s old 6 string in Sophmore year of High School. I [give
 lessons](/lessons/) for the guitar and banjo, as well as
-[perform](/recordings/) and [compose](/compositions/).
+[record](/recordings/) and [compose](/compositions/).
 
 I also make music using [LSDJ][5].
 
@@ -28,38 +28,35 @@ I am a big supporter of [GNU/Linux][6]. I do all of my work on \*NIX
 based computers, and maintain computers for others with [Windows][7] and
 [OS/X][8] installed.
 
-I do [data recovery](/support/) along with [system
-repair](/support/) for people (freelance style) near me. I have
-built and run many websites over the years, and maintain this website
-myself. I am familiar with many different languages and paradigms, but I
-am most used to [C++][9], [lua][10], [ruby][11], and [e-LISP][12].
+I do [data recovery](/support/) along with [system repair](/support/) 
+as freelance work. I have built and run many websites over the years,
+and maintain this website myself. I am familiar with many different
+languages and paradigms, but I am most used to [C++][9], [lua][10],
+[ruby][11], and [e-LISP][12].
 
 I am on [github][13], too!
 
 ### Writing
 
-I have a [serial blog][14] called [Prose and Prosody][15], and often
-participate in projects like [NaNoWriMo][16]. Some of my past projects
-*not* hosted on [Prose and Prosody][15] include [Affuage][17] and
-[Project Pygmalion][18].
+I have an inactive [serial blog][14] called [Prose and Prosody][15],
+and often participate in projects like [NaNoWriMo][16]. Some of my
+past projects *not* hosted on [Prose and Prosody][15] include
+[Affuage][17] and [Project Pygmalion][18].
 
 I try to make as much of a habit out of writing as I can. I also have a
 blog, [Toft and Toddy][19], where I write about whatever is on my mind
 at the moment.
 
-Let me know what You think!
-
 ### Games
 
-I play a lot of games, and I am something of a game designer, as well.
+I play a lot of games, and I am something of an aspiring game
+designer, as well.
 
 I\'ve run some [tabletop role-playing games](/logs/), and I like
 to [review](/reviews/) both video and board games as well. I am
 on [steam][20].
 
-I have a few [projects](/games/) in the works, including a
-tabletop roleplaying system, a territory holding board game, a deck of
-symbol cards, and an abstract city building game. I am on
+I have a few [original games](/games/) in the works. I am on
 [boardgamegeek][21].
 
 

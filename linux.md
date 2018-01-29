@@ -10,8 +10,9 @@ I do all of my work, from music composition, to game development, to
 creating this website, on [GNU/Linux][1].
 
 If You\'d like to give it a try, I recommend [this website\'s quiz][2]
-as a way to pick a distribution to try. Or, You can do what I did: Jump
-in the deep end with [Slackware Linux][3].
+as a way to pick a distribution to try. Or, You can do what I did:
+Jump in the deep end with [Slackware Linux][3]. I also currently use
+[OpenSUSE][] Tumbleweed.
 
 Thanks for this operating system are due to two people, and their
 respective groups:
@@ -24,9 +25,9 @@ respective groups:
   kernel and advocate for its use worldwide.
 
 
-
+[OpenSUSE]: https://www.opensuse.org/
 [1]: http://www.gnu.org/gnu/linux-and-gnu.en.html 
-[2]: http://tuxradar.com/content/distro-picker-0 
+[2]: https://distrochooser.de/en
 [3]: http://www.slackware.com/ 
 [4]: https://stallman.org/ 
 [5]: http://www.fsf.org/ 

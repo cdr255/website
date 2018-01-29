@@ -8,7 +8,7 @@ permalink: /links/
 
 ### Cool Tools
 
-* [Boxfolio][1]
+* [Seventh Sanctum Generators][1]
 * [Don Jon\'s Generators][2]
 * [Real Favicon Generator][3]
 
@@ -24,8 +24,7 @@ permalink: /links/
 * [xkcd][11]
 
 
-
-[1]: https://www.boxfolio.com/ 
+[1]: http://www.seventhsanctum.com/
 [2]: http://donjon.bin.sh/ 
 [3]: http://realfavicongenerator.net/ 
 [4]: http://www.girlswithslingshots.com/ 

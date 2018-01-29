@@ -15,7 +15,9 @@ long as You:
 
 * * *
 
-### [Affuage][2]
+### First Draft WIP
+
+#### Affuage [Online][2]{:style="display: block; text-align: left;"}
 
 A story about six individuals in a high-magic, high-fantasy world,
 brought together by chance on two sides of the same board. As they both
@@ -23,7 +25,16 @@ try to enact their will upon the world around them, their choices define
 exactly where that world is going, what it is doing, and how the future
 will unfold.
 
-### [Project Pygmalion][3]
+#### Incandescent Shock **Offline**{:style="display: block; text-align: left;"}
+
+Colonies need protection, and it is no different on the planet of
+Istra. Petya, Anjali, and Dom are young recruits to the defense
+force. As they learn to grow beyond friends and into allies, they
+uncover something that could change the lives of every single person
+they've ever known. What they decide to do about it will test their
+bond, their wills, and who they are themselves.
+
+#### Project Pygmalion [Online][3]{:style="display: block; text-align: left;"}
 
 Two lovers, Karia and Mali, get engaged one evening after a long night
 in the clubs of Cell 5. When they come across Mali\'s perfect dress and

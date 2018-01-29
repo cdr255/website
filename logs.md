@@ -19,12 +19,6 @@ the fun times that we had during the game.
 
 1.  [Ogres and Beatrice](/logs/ancan-001/)
 
-### Dread
-
-**System:** Dread RPG *(NB. Dread games are normally one-shots, so each
-entry is generally a complete story.)*
-
-1.  **Beneath a Steel Sky** (Coming soon!)
 
 ### End of the Empire
 
