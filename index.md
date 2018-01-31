@@ -5,7 +5,7 @@ layout: default
 
 <img id="floatleft" src="https://s3.amazonaws.com/cdr255/cdr255-logo.png" alt="My Picture" />
 
-### Last Update: 2018-01-28 
+### Last Update: 2018-01-31
 
 Welcome to my little corner of the web. My name is Christopher
 Rodriguez. I make music, fiction, games, and software, and

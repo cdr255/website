@@ -15,6 +15,16 @@ concievable "API" at all aside from TCP itself.
 
 ## [Unreleased]
 
+### Added
+- More [Links][]
+
+### Changed
+
+- Actually changed front page's "Last Updated"
+- This ChangeLog links to the changes between tags, now.
+
+### Removed
+
 ## [2.0.1] - 2018-01-31
 
 ### Added
@@ -79,8 +89,9 @@ concievable "API" at all aside from TCP itself.
 [005]: http://www.toftandtoddy.com/2018/01/28/grounded-by-rubies/
 [006]: https://flattr.com/
 
-[2.0.0]: https://github.com/cdr255/website/releases/tag/v2.0.0
-[2.0.1]: https://github.com/cdr255/website/releases/tag/v2.0.1
+[2.0.0]: https://github.com/cdr255/website/compare/783acb61e9afb8acd756f3be3666c1c5ce0099de...v2.0.0
+[2.0.1]: https://github.com/cdr255/website/compare/v2.0.0...v2.0.1
+[Unreleased]: https://github.com/cdr255/website/compare/v2.0.1...master
 
 <!-- Local Variables: -->
 <!-- mode: markdown   -->

@@ -6,15 +6,26 @@ permalink: /links/
 
 ## Some Good Links
 
+### Actual Play Series I Follow
+
+* [Critical Role][CR]
+* [The Adventure Zone][TAZ]
+
 ### Cool Tools
 
-* [Seventh Sanctum Generators][1]
 * [Don Jon\'s Generators][2]
 * [Real Favicon Generator][3]
+* [Seventh Sanctum Generators][1]
+
+### My Social Media
+
+* [Instagram][]
+* [Twitter][]
 
 ### Webcomics I Read
 
 * [Girls With Slingshots][4]
+* [Go Get a Roomie!][GGAR]
 * [Least I Could Do][5]
 * [Order of the Stick][6]
 * [Questionable Content][7]
@@ -23,7 +34,11 @@ permalink: /links/
 * [What Birds Know][10]
 * [xkcd][11]
 
-
+[CR]: https://www.youtube.com/playlist?list=PL7atuZxmT954bCkC062rKwXTvJtcqFB8i
+[GGAR]: http://www.gogetaroomie.com/
+[Instagram]: https://www.instagram.com/cdr255/
+[TAZ]: http://www.maximumfun.org/shows/adventure-zone
+[Twitter]: https://twitter.com/cdr255
 [1]: http://www.seventhsanctum.com/
 [2]: http://donjon.bin.sh/ 
 [3]: http://realfavicongenerator.net/ 
