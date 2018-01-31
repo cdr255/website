@@ -6,7 +6,10 @@ $color_5: #A22;
 $color_6: #505050;
 $color_7: #CCC;
 $color_8: #e9daab;
+$font_family_0: 'Open Sans',sans;
 $font_family_1: 'Press Start 2P',cursive;
+$font_family_2: 'Montserrat',monospace;
+$page_background_color: #E8EAEC;
 $background_color_1: #970808;
 $background_color_2: #670000;
 $background_color_3: #280000;
@@ -17,11 +20,12 @@ $background_color_7: #333;
 $background_color_8: #faebbc;
 $border_top_color_1: #E2E2E2;
 
-@import "http://fonts.googleapis.com/css?family=Press+Start+2P|Open+Sans:700,300,600,400";
+@import "http://fonts.googleapis.com/css?family=Montserrat|Press+Start+2P|Open+Sans:700,300,600,400";
 body {
-	background: #E8EAEC;
+    background: $page_background_color;
 	color: $color_1;
 	margin: 0;
+	font-family: $font_family_0;
 }
 header {
         width: 56em;
@@ -205,20 +209,20 @@ main {
 	    border: 1px solid #a22;
 	}
 	ul {
-		margin: 0 5px 16px 35px;
+		margin: 1em;
 	}
 	ol {
-		margin: 0 5px 16px 35px;
+		margin: 1em;
 	}
 	dl {
-		margin: 0 5px 10px 25px;
+		margin: 1em;
 	}
 	dt {
 		font-weight: bold;
-		margin-bottom: 5px;
+		margin-bottom: 1em;
 	}
 	dd {
-		margin: 0 0 10px 15px;
+		margin: 1em;
 	}
 	table {
 		display: table;
@@ -232,23 +236,30 @@ main {
 		}
 	}
 	blockquote {
+	        font-family: $font_family_2; 
 		font-size: small;
 		padding: 8px;
-		background-color: $background_color_8;
-		border: 1px solid #e1cc89;
-		margin: 0 5px 16px 35px;
-		background-position: top left;
-		background-repeat: no-repeat;
-		&:before {
-			color: $color_8;
-			content: "\201c";
-			font-size: 15em;
-			line-height: 0em;
-			margin-right: -0.55em;
-		}
-		p {
-			display: inline-block;
-		}
+		text-align: center;
+		background-color: rgba(225,178,178,0.2);
+		border: 0px inset;
+		display: block;
+		max-width: 80%;
+		margin: auto;
+		margin-top: 1em;
+		margin-bottom: 1em;
+		line-height: 2em;
+		//background-position: top left;
+		//background-repeat: no-repeat;
+		// &:before {
+		// 	color: $color_8;
+		// 	content: "\201c";
+		// 	font-size: 15em;
+		// 	line-height: 0em;
+		// 	margin-right: -0.55em;
+		// }
+		//p {
+		//	display: inline-block;
+		//}
 	}
 }
 #subcontent {

@@ -15,9 +15,9 @@ I am a bit of a game designer, and these are my projects.
 I once ran a 100% homebrew ttrpg campaign using the [True20][1]
 system, and figured I would post the WIP-style SRDs I used here.
 
-* [Backgrounds](falode-bgs.html)
-* [Codes of Honor](falode-cod.html)
-* [The Falodian Pantheon](falode-god.html)
+* [Backgrounds](/games/falode/falodian-backgrounds/)
+* [Codes of Honor](/games/falode/falodian-codes/)
+* [The Falodian Pantheon](/games/falode/falodian-pantheon/)
 * [Map of Beebrook Region][2]
 
 #### Original Games
