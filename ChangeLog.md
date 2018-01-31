@@ -15,6 +15,8 @@ concievable "API" at all aside from TCP itself.
 
 ## [Unreleased]
 
+## [2.0.1] - 2018-01-31
+
 ### Added
 
 - Falodian Backgrounds, Codes, and Pantheon Pages are no longer
@@ -76,6 +78,9 @@ concievable "API" at all aside from TCP itself.
 [004]: http://harpjs.com/
 [005]: http://www.toftandtoddy.com/2018/01/28/grounded-by-rubies/
 [006]: https://flattr.com/
+
+[2.0.0]: https://github.com/cdr255/website/releases/tag/v2.0.0
+[2.0.1]: https://github.com/cdr255/website/releases/tag/v2.0.1
 
 <!-- Local Variables: -->
 <!-- mode: markdown   -->
