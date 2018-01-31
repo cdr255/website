@@ -6,15 +6,25 @@ permalink: /tintenn/
 
 ## Project Tintenn
 
-Since October 28, 2015, I have been posting (on a semi-regular basis)
-serial micro-fiction on Twitter under the [#tintenn][1] hashtag. Here,
-I've embedded the entirety of the story, in order. Please, Enjoy, and
-stay tuned to the above hashtag for updates!
+From October 28, 2015 to April 5th, 2016 I posted (on a semi-regular
+basis) serial micro-fiction on Twitter under the [#tintenn][1]
+hashtag. I then took a hiatus for various reasons.
+
+On July 21, 2017, someone began using that hashtag to promote
+themselves on Twitter. Since this had been on hiatus for over a year
+by then, I decided to permanently shelve it, at least under this name.
+
+Perhaps one day I will try this again. It was fun, but very
+stressful. Making things flow both as a long-form story and from day
+to day is a difficult balance.
+
+Anyway, I've embedded all of the tweets here for ease of reading.
+
+* * *
 
 > Some memories are like opening the car window during a rainstorm:
 > Reality splashes your cheeks before you can shut it out again.
-> [#tintenn][2]
-> {: lang="en" dir="ltr"}
+> [#tintenn][2] {: lang="en" dir="ltr"}
 > 
 > --- Chris Rodriguez (@cdr255) [October 28, 2015][3]
 {: .twitter-tweet lang="en"}
@@ -149,6 +159,62 @@ stay tuned to the above hashtag for updates!
 > 
 > --- Chris Rodriguez (@cdr255) [January 26, 2016][20]
 {: .twitter-tweet data-lang="en"}
+
+> Rei's deep blue eyes matched his disdain, and raised him a pint of
+> pitiable exhaustion. "You know very well why we're here."
+> [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [March 23, 2016][21]
+{: .twitter-tweet data-lang="en"}
+
+> Rei's deep blue eyes matched his disdain, and raised him a pint of
+> pitiable exhaustion. "You know very well why we're here."
+> [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [March 23, 2016][21]
+{: .twitter-tweet data-lang="en"}
+
+> "Or can't You feel it, after all?" She smirked for a moment before
+> pointing to the back of her gloved right hand. "Hmm?" [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [March 24, 2016][22]
+{: .twitter-tweet data-lang="en"}
+
+> The photograph had Lon &amp; Rei... But in between them was someone
+> new. Someone with a smile as big as a semi on the midnight freeway.
+> [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [April 3, 2016][23]
+{: .twitter-tweet data-lang="en"}
+
+> Mel was driving towards Begrove, pushing his rig as fast as he dared.
+> He was late: The fiery pain in his lower back told him so.
+> [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [April 4, 2016][24]
+{: .twitter-tweet data-lang="en"}
+
+> His painted on frown loudly took a sip of a can of some unknown,
+> half-forgotten, week-old liquid. He swallowed, and smiled.
+> [#tintenn][2]
+> {: lang="en" dir="ltr"}
+> 
+> --- Chris Rodriguez 🍵 (@cdr255) [April 5, 2016][25]
+{: .twitter-tweet data-lang="en"}
+
+
+
+[1]: https://twitter.com/hashtag/tintenn?src=hash&amp;ref_src=twsrc%5Etfw
+[2]: https://twitter.com/cdr255/status/712500385903210496?ref_src=twsrc%5Etfw
+[3]: https://twitter.com/cdr255/status/713098323369046016?ref_src=twsrc%5Etfw
+[4]: https://twitter.com/cdr255/status/716489349077053442?ref_src=twsrc%5Etfw
+[5]: https://twitter.com/cdr255/status/716851683251396608?ref_src=twsrc%5Etfw
+[6]: https://twitter.com/cdr255/status/717216539364167685?ref_src=twsrc%5Etfw
 
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

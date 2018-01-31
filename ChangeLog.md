@@ -15,6 +15,22 @@ concievable "API" at all aside from TCP itself.
 
 ## [Unreleased]
 
+### Added
+
+- Falodian Backgrounds, Codes, and Pantheon Pages are no longer
+  missing under [Games][].
+- Added in 'Montserrat' font from Google Fonts.
+- The last few tweets to the [Tintenn][] archive, and a paragraph
+  explaining its permanent hiatus.
+
+### Changed
+
+- Fixed Gods-awful blockquote styling to something that meshes well
+  with the site.
+- Main site font is now 'Open Sans', and blockquote font is 'Montserrat'.
+- Fixed wording of explanations and format of verses on Falodian Codes
+  of Honor in [Games][].
+
 ## [2.0.0] - 2018-01-28
 
 ### Added
@@ -53,6 +69,7 @@ concievable "API" at all aside from TCP itself.
 [Logs]: /logs/
 [Recordings]: /recordings/
 [Software]: /software/
+[Tintenn]: /tintenn/
 [001]: http://keepachangelog.com/en/1.0.0/
 [002]: http://semver.org/spec/v2.0.0.html
 [003]: https://jekyllrb.com/
