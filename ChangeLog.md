@@ -17,6 +17,7 @@ concievable "API" at all aside from TCP itself.
 
 ### Added
 - More [Links][]
+- Lacis Lycorma stuff to [Games][].
 
 ### Changed
 
