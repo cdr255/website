@@ -207,7 +207,7 @@ grant hero points for are:
 * Appeasing Your chosen God/Liege/Doctrine/etc.
 * Acting like a hero.
 
-I'll also give You one if You go a whole session, start to finish,
+	I'll also give You one if You go a whole session, start to finish,
 with none at all. Remember, I can and will award these as I please,
 and they are something I use to encourage *dramatic storytelling*
 and *roleplay*. I'm pretty liberal with them, compared to other GMs
