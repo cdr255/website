@@ -19,6 +19,16 @@ $background_color_6: inherit;
 $background_color_7: #333;
 $background_color_8: #faebbc;
 $border_top_color_1: #E2E2E2;
+$irc_color_1: #6B3F00; // chrissofer
+$irc_color_2: #00D742; // Todo
+$irc_color_3: #00D3D7; // Bronnie
+$irc_color_4: #FF9000; // Ember
+$irc_color_5: #FF00DB; // Gwynn
+$irc_color_6: #0D00FF; // Danni
+$irc_color_7: #AEFF00; // Dayra
+$irc_color_gameserv: #BBCCBB; // GameServ
+$irc_color_meta: #CCBBBB; // Date and Roll
+
 
 @import "http://fonts.googleapis.com/css?family=Montserrat|Press+Start+2P|Open+Sans:700,300,600,400";
 body {
@@ -300,4 +310,47 @@ footer {
 
 .strikethrough {
     text-decoration: line-through;
+}
+
+
+// IRC STYLING
+
+.irc-date {
+    color: $irc_color_meta;
+    font-style: italic;
+    font-size: xx-small;
+}
+
+.irc-chrissofer {
+    color: $irc_color_1;
+}
+.irc-todo {
+    color: $irc_color_2;
+}
+.irc-bronnie, .ed267 {
+    color: $irc_color_3;
+}
+.irc-ember {
+    color: $irc_color_4;
+}
+.irc-gwynn, .irc-gwynnn {
+    color: $irc_color_5;
+}
+.irc-danni, .irc-twoorcforyou {
+    color: $irc_color_6;
+}
+.irc-dayra {
+    color: $irc_color_7;
+}
+.irc-gameserv, .irc-chanserv {
+    display: blank;
+    color: $irc_color_gameserv;
+}
+.irc-roll {
+    color: $irc_color_meta;
+    font-size: small;
+}
+.irc-arrow {
+    font-size: large;
+    color: $irc_color_meta;
 }
