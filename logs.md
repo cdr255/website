@@ -34,6 +34,11 @@ the fun times that we had during the game.
 
 1.  [Simone Posada](/logs/muert-001/)
 
+### Lacis Lycorma
+
+**System:** Pathfinder
+
+1. [IRC](/logs/irc-lacis-lycorma-01)
 
 
 [1]: http://en.wikipedia.org/wiki/Tabletop_role-playing_game
