@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lacis Lycorma Session #01
-permalink: /logs/irc-lacis-lycorma-01
+title: Lacis Lycorma Session #001
+permalink: /logs/irc-lacis-lycorma-001/
 ---
 
 #### BEGIN LOGGING AT Mon Mar 19 19:24:53 2018

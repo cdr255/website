@@ -38,7 +38,25 @@ the fun times that we had during the game.
 
 **System:** Pathfinder
 
-1. [IRC](/logs/irc-lacis-lycorma-01)
+
+
+1. Arrival in Augustana - [IRC](/logs/irc-lacis-lycorma-001)
+2. United by Camels - [IRC](/logs/irc-lacis-lycorma-002)
+3. Outside the Kobold Fortress - [IRC](/logs/irc-lacis-lycorma-003)
+4. Ventral Dealings - [IRC](/logs/irc-lacis-lycorma-004)
+5. The Pit, the Portrait, and the Pitch - [IRC](/logs/irc-lacis-lycorma-005)
+6. Egress from the Kobold Fortress - [IRC](/logs/irc-lacis-lycorma-006)
+7. The Tavern in the Woods - [IRC](/logs/irc-lacis-lycorma-007)
+8. Staggering Sleep - [IRC](/logs/irc-lacis-lycorma-008)
+9. Nightwalkers I* - [IRC](/logs/irc-lacis-lycorma-008-5)
+10. The Aftermath -  [IRC](/logs/irc-lacis-lycorma-009)
+11. Crossroads' Dealings - [IRC](/logs/irc-lacis-lycorma-010)
+12. Take One Down, Pass it Around... - [IRC](/logs/irc-lacis-lycorma-011)
+13. Gwynnteresting Tales* - [IRC](/logs/irc-lacis-lycorma-011-5)
+14. It's coming up, it's Dayra - [IRC](/logs/irc-lacis-lycorma-012)
+
+*NB: Sessions with an &#42; are subsessions, and only use a smaller part of the full group (If You don't keep OOC knowledge OOC and aren't in them: Skip them!).*{: .nb}
+
 
 
 [1]: http://en.wikipedia.org/wiki/Tabletop_role-playing_game

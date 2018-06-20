@@ -312,6 +312,10 @@ footer {
     text-decoration: line-through;
 }
 
+.nb {
+    font-style: italic;
+    font-size: x-small;
+}
 
 // IRC STYLING
 
@@ -321,25 +325,25 @@ footer {
     font-size: xx-small;
 }
 
-.irc-chrissofer {
+.irc-chrissofer, .irc-cdr255 {
     color: $irc_color_1;
 }
-.irc-todo {
+.irc-todo, .irc-kass {
     color: $irc_color_2;
 }
-.irc-bronnie, .irc-bron, .irc-ed267 {
+.irc-bronnie, .irc-bron, .irc-ed627, .irc-bronnis, .irc-bronward {
     color: $irc_color_3;
 }
 .irc-ember {
     color: $irc_color_4;
 }
-.irc-gwynn, .irc-gwynnn, .irc-strangers, .irc-hooded {
+.irc-gwynn, .irc-gwynnn, .irc-strangers, .irc-hooded, .irc-hood, .irc-x {
     color: $irc_color_5;
 }
-.irc-danni, .irc-twoorcforyou {
+.irc-danni, .irc-twoorcfouryou, .irc-thegreatorchope {
     color: $irc_color_6;
 }
-.irc-dayra {
+.irc-dayra, .irc-dare, .irc-daredibryn {
     color: $irc_color_7;
 }
 .irc-gameserv, .irc-chanserv {

@@ -13,18 +13,28 @@ does not really adhere to [Semantic Versioning][002] because it's
 really just a poster used to collect static content and doesn't have a
 concievable "API" at all aside from TCP itself.
 
+
 ## [Unreleased]
+
+### Added
+
+### Changed
+
+### Removed
+
+## [2.1.1] - 2018-06-20
 
 ### Added
 - More [Links][]
 - Lacis Lycorma stuff to [Games][].
+- IRC log formatting.
+- Lacis Lycorma IRC logs 1-14 in [Logs][].
 
 ### Changed
 
-- Actually changed front page's "Last Updated"
+- Actually changed front page's "Last Updated".
 - This ChangeLog links to the changes between tags, now.
 
-### Removed
 
 ## [2.0.1] - 2018-01-31
 
