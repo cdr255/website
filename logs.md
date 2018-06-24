@@ -54,6 +54,7 @@ the fun times that we had during the game.
 12. Take One Down, Pass it Around... - [IRC](/logs/irc-lacis-lycorma-011)
 13. Gwynnteresting Tales* - [IRC](/logs/irc-lacis-lycorma-011-5)
 14. It's coming up, it's Dayra - [IRC](/logs/irc-lacis-lycorma-012)
+15. When is a Door not a Door? - [IRC](/logs/irc-lacis-lycorma-013)
 
 *NB: Sessions with an &#42; are subsessions, and only use a smaller part of the full group (If You don't keep OOC knowledge OOC and aren't in them: Skip them!).*{: .nb}
 
